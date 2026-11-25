@@ -1,4 +1,5 @@
 """Laugh Track: The Crypto Trading Joke Contest.
+SPDX-License-Identifier: MIT
 
 Writes one original joke about crypto and trading life to
 <MAKEFUN_OUTPUT_DIR>/entry.txt (default /output/entry.txt).
